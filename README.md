@@ -1,2 +1,2 @@
-# projetoDIO
-Repositório do DIO
+# projeto de exercicio git/github da DIO
+repostório da dio
